@@ -1,2 +1,2 @@
 # scripts
-This contains some scripts I wrote
+This contains some scripts I wrote.
